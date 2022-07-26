@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kvabhaya
+- 👋 Hi, I’m Koila Abhayasundara
 - 👀 I’m interested in Computing things
 - 🌱 I’m currently learning B.Sc.(Hons) in Computer Science 
 
