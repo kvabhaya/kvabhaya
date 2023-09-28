@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kokila Abhayasundara</h1>
 # 💫 About Me:
-🔭 I’m currently working on GAO Tek Inc.<br>🌱 I’m currently learning BSc Hons in Computer Science
+👋 I'm Kokila Abhayasundara<br>🔭 I’m currently working on GAO Tek Inc.<br>🌱 I’m currently learning BSc Hons in Computer Science
 
 
 ## 🌐 Socials:
