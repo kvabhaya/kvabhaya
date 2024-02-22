@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 I'm Kokila Abhayasundara<br>🌱 I’m currently learning BSc Hons in Computer Science
 
+<a href="https://app.daily.dev/kokilaabayasundara"><img src="https://api.daily.dev/devcards/v2/cT31Vn0l3poQEfQThKhm3.png?type=default&r=jwg" width="356" alt="Kokila Abayasundara's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kv.abhayasundara.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kokila-abhayasundara-281a87227) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCMK-nobqfyXMd0mtaXsDKCw) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Kokila-Abhayasundara) 
