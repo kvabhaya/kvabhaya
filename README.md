@@ -74,23 +74,3 @@
 <img src="https://raw.githubusercontent.com/kvabhaya/kvabhaya/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img src="https://raw.githubusercontent.com/kvabhaya/kvabhaya/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/kvabhaya/kvabhaya/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/kvabhaya/kvabhaya/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/kvabhaya/kvabhaya/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/kvabhaya/kvabhaya/output/snake.svg" alt="Snake animation" />
-
-###
