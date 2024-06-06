@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Kokila+Abhayasundara!;+UG+in+Computer+Science"; />
 </h1>
 
-🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning Angular<br>💡  As a student learning BSc (Hons) in Computer Science | Diploma in Full Stack Developing<br>💬  Ask me about anything related to HTML/CSS/SASS/Bootstrap/JS/Java<br>⚡  Fun fact: I ❤️ 👨🏽‍💻
+🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning Angular<br>💡  As a student learning BSc (Hons) in Computer Science | Diploma in Full Stack Development<br>💬  Ask me about anything related to HTML/CSS/SASS/Bootstrap/JS/Java<br>⚡  Fun fact: I ❤️ 👨🏽‍💻
 
 
 ## 🌐 Socials:
